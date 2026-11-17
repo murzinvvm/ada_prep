@@ -1,0 +1,30 @@
+# Ada build outputs
+*.o
+*.ali
+b~*
+*.exe
+obj/
+bin/
+.DS_Store
+
+# Compiled programs
+add_two
+array_sum
+count_demo
+dig_sum_function
+digit_sum
+factorial_for
+factorial_while
+introduction
+is_even
+main
+main_math
+math
+matrix_sum_demo
+max_function
+maximum
+numbers
+sign_check
+square_function
+sum_n
+swap_demo
